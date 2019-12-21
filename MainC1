@@ -4,11 +4,11 @@ using namespace std;
 
 int main()
 {
-	int a=12, b=8, z;
-	float f=4.4;
+	int a=13, b=10, z;
+	float f=4.3;
 	char c='A';
 	double d=2.34567;
-	a=13; //giving diff. value than before
+	a=12; //giving diff. value than before
 	z=a+b; //addition,z has defined int before(compulsory)
     cout<<z<<" ";
 	a=a+b; //assignment
